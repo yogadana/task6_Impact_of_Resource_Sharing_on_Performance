@@ -101,6 +101,11 @@ When tasks share `AccessSharedData`:
 
 ---
 
+## **Demonstration Video**
+https://github.com/user-attachments/assets/e30eb7eb-12c1-4b10-b800-ef54e58abfce
+
+---
+
 ## **Discussion and Analysis**
 
 ### **1. Real-Time System Challenges**
